@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2b3037;
+}
+.heading-step4{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    width: 50%;
+}
+.step4{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 3rem;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    opacity: 0.5;
+
+
+}
+.document-photocopy{
+    margin: 4rem;
+    color: white;
+}
+.document-photocopy h4{
+    font-size: 25px;
+
+} 
+.uploadFile{
+    background: transparent;
+    color: cornflowerblue;
+}
+.uploadSignature{
+    margin: 5rem;
+    width: 30%;
+}
+.hereby{
+    margin: 5rem;
+    width: 70%;
+    color: white;
+}
+.nxt-prev{
+    margin-bottom: 2rem;
+}
+.next a,.prev a{
+    text-decoration: none;
+    color: aliceblue;
+   
+}

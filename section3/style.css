@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2b3037;
+}
+.heading-step3{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 3rem;
+    margin-left: 3rem;
+    width: 50%;
+}
+.step3{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 3rem;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    opacity: 0.5;
+
+
+}
+.orders-info{
+    margin: 1rem 5rem;
+    
+}
+.orders-info div label{
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: antiquewhite;
+}
+.orders-info div input{
+    outline: none;
+    background: none;
+    border: none;
+    line-height: 20px;
+    background: transparent;
+    border: 1px solid cyan;
+    color: rgb(169, 201, 192);
+}
+.next a,.prev a{
+    text-decoration: none;
+    color: aliceblue;
+   
+
+}
